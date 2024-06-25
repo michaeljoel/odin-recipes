@@ -6,3 +6,7 @@ img {
   height: auto;
   width: 500px;
 }
+
+li {
+  padding-bottom: 10px;
+}
